@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A prospective-glasse for gamesters: or, A short treatise against gameing: in which is contained a plaine and perfect manifestation of the inconveniencies, miseries and calamities which the user or practiser of unlawfull games doth bring upon himselfe, not onely in regard of his mortall body, but also upon his eternall soule. Wherein also these six evill consequences of gaming are exactly and pertinently handled, viz. [brace] Drunkennesse. Lying. Swearing. [double brace] Adultery. Poverty. Theevery. [brace] Written at the request of a gamester, upon his detestation of his former idle life and practice in this kind. / By John Philpot Master in Arts. Dedicated to the honest and judicious youngmen and apprentices of the honourable city of London. Published according to order.</title>
+            <author>Philpot, John, Master in Arts.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90647</idno>
+            <idno type="STC">Wing P1988A</idno>
+            <idno type="STC">Thomason E345_15</idno>
+            <idno type="STC">ESTC R200995</idno>
+            <idno type="EEBO-CITATION">99861590</idno>
+            <idno type="PROQUEST">99861590</idno>
+            <idno type="VID">113728</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90647)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113728)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 56:E345[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A prospective-glasse for gamesters: or, A short treatise against gameing: in which is contained a plaine and perfect manifestation of the inconveniencies, miseries and calamities which the user or practiser of unlawfull games doth bring upon himselfe, not onely in regard of his mortall body, but also upon his eternall soule. Wherein also these six evill consequences of gaming are exactly and pertinently handled, viz. [brace] Drunkennesse. Lying. Swearing. [double brace] Adultery. Poverty. Theevery. [brace] Written at the request of a gamester, upon his detestation of his former idle life and practice in this kind. / By John Philpot Master in Arts. Dedicated to the honest and judicious youngmen and apprentices of the honourable city of London. Published according to order.</title>
+                  <author>Philpot, John, Master in Arts.</author>
+                  <author>Philipot, John, 1589?-1645,</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Bates, at the Maidenhead on Snow-hill, neere Holborne Conduit.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing identifies the author as John Philipot, 1589?-1645, but this attribution is unlikely. Philipot was 1) Somerset Herald 1624 and 2) D.C.L. Oxford 1643.  He would not have referred to himself (or have been referred to posthumously) as Master in Arts. Further, as a royalist active on the side of the King, Philipot is unlikely to have had the gaming habits of the "youngmen and apprentices" of London uppermost in his mind. Foster and Venn list no John Philpot or Philipot (or variant) whose highest degree was Master of Arts and who was living in 1646 or shortly before.</note>
+                  <note>Annotation on Thomason copy: "July 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gambling --  Religious aspects --  Early works to 1800.</term>
+               <term>Vices --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-12</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113728:1"/>
+            <pb facs="tcp:113728:1" rendition="simple:additions"/>
+            <p>A Proſpective-Glaſſe FOR GAMESTERS: OR, <hi>A ſhort Treatiſe againſt Gameing:</hi> In which is contained A plaine and perfect manifeſtation of the inconveniencies, miſeries and calamities which the Uſer or Practiſer of unlawfull Games doth bring upon himſelfe, not onely in regard of his mortall body, but alſo upon his eternall Soule.</p>
+            <p>
+               <hi>Wherein alſo theſe ſix evill conſequences of Gaming are exactly and pertinently handled,</hi> viz.</p>
+            <list>
+               <item>Drunkenneſſe.</item>
+               <item>Lying.</item>
+               <item>Swearing.</item>
+               <item>Adultery.</item>
+               <item>Poverty.</item>
+               <item>Theevery.</item>
+            </list>
+            <p>
+               <hi>Written at the requeſt of a Gameſter, upon his deteſtation of his former idle life and practice in this kinde.</hi>
+            </p>
+            <p>By JOHN PHILPOT Maſter in Arts.</p>
+            <p>
+               <hi>Dedicated to the honeſt and judicious Youngmen and Apprentices of the honourable City of</hi> LONDON.</p>
+            <p>Publiſhed according to Order.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Bates,</hi> at the Maidenhead on Snow-hill, neere Holborne Conduit. 1646.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:113728:2"/>
+            <pb facs="tcp:113728:2"/>
+            <head>To the Young-men and Apprentices inhabi<g ref="char:EOLhyphen"/>ting within the City of <hi>London.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg> Have preſumed to dedicate this ſhort Treatiſe to you, as having by long and ſad experience found, that of all places in this Kingdome, this City, notwith<g ref="char:EOLhyphen"/>ſtanding the great means which hath been uſed by the Magiſtrates to the contra<g ref="char:EOLhyphen"/>ry, is yet contaminated by the infamous vice of gaming, whereby many young-men of good e<g ref="char:EOLhyphen"/>ducation being ſent from their parents in ſeverall countries hither to gain a trade or way of living, have by ſundry provocations been by little and little drawne to this vice, which having once u<g ref="char:EOLhyphen"/>ſed, they have found ſo much ſweetneſſe in this <hi>dulee venenum,</hi> that they have not left ſucking this poyſonous bait, till they have thereby brought themſelves to much poverty, penury, want and miſery, beſides the conſideration of the unbe<g ref="char:EOLhyphen"/>commingneſſe
+<pb facs="tcp:113728:3"/>of ſo ſenſuall a vice in ſuch ſad and diſtracted times, wherein the judgments of God are in an extraordinary manner powred forth up<g ref="char:EOLhyphen"/>on us; this and other ſins, which this big-bel<g ref="char:EOLhyphen"/>lied monſter (as the enſuing Treatiſe proves) dai<g ref="char:EOLhyphen"/>ly produces and brings into the world, I could not but among the throng of Books (with which the preſſes have been a long time oppreſſed) but expoſe theſe few ſheets to the publique view, which although it containe not in it matter of Newes, (a thing much ſought after) yet the ſub<g ref="char:EOLhyphen"/>ject having not lately been treated of, may af<g ref="char:EOLhyphen"/>foord new matter to the itching eares of many Athenians, and I doubt not but will find accep<g ref="char:EOLhyphen"/>tance with all ingenious Patriots: I will not trouble you any longer with a tedious Inducti<g ref="char:EOLhyphen"/>on, leaſt I make too wide a doore for ſo mall a ſtructure; but leave it to your peruſall, hoping it may affoord ſome benefit to all honeſt Youth of the Kingdome in generall, and your ſelves in particular; with whom I leave my poore endea<g ref="char:EOLhyphen"/>vours in this kind, and reſt.</p>
+            <closer>
+               <signed>Your well-wiſhing Friend, <hi>J. P.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:113728:3"/>
+            <head>A Treatiſe against Gaming.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N this diſcourſe concerning gaming, my intent is not to condemne any kind of law<g ref="char:EOLhyphen"/>full recreations, as running, wreſtling, ſhooting, and the like, which as they are neceſſarily uſed for the refreſhment of the body, ſo we find them no where condem<g ref="char:EOLhyphen"/>ned, in the holy Scripture, that therefore which is the ſub<g ref="char:EOLhyphen"/>ject againſt which I have at this time undertaken to write, is concerning the unlawfull games of Cards, Dice, &amp;c. or any other games which are carried by fortune or lot, (as we commonly terme them) becauſe that notwithſtanding they are forbidden by the Lawes of the Kingdome, and particularly in the Statute, 33. <hi>H.</hi> 8.9. whereby not onely the players at unlawfull games, but ſuch as ſuffer them in their houſes are to be impriſoned, till they be bound over to play no more, yet ſuch is the liberty that many take, that it is daily uſed to the miſ-ſpending of precious time, and the undoing of the moſt precious ſouls of many hope<g ref="char:EOLhyphen"/>full young men. I have therefore publiſhed this Treatiſe to the view of the World, which (I hope) may prove as a meanes to deterre ſome from this time and ſoul-deſtroying vice of gaming, and playing at Cards, Dice, &amp;c. ſince it is a vice which the Heathens themſelves condemned, even in their Princes, as <hi>Suctonius</hi> in the life of <hi>Auguſtus</hi> reports, that it was his greateſt blemiſh, that he was at leaſure to play at Dice.</p>
+            <pb n="2" facs="tcp:113728:4"/>
+            <p>
+               <hi>Chilo</hi> being ſent from the Lacedemonlans to Corinth, upon an Embaſſage, and finding the Senators of that City at cards and dice, would performe no part of his meſſage, ſaying, he would not ſo much diſ-honour the Lacedemoni<g ref="char:EOLhyphen"/>ans, as that they ſhould either make or meddle with ſuch perſons: were ſuch games infamous among Heathens, how much more unworthy are they among Chriſtians<g ref="char:punc">▪</g> that therefore I may the more clearely anatomize the horridneſſe and danger of theſe ſinnes, it would not be a<g ref="char:EOLhyphen"/>miſſe to note unto you the great and unſpeakable evills, which are procured thereby, which for method ſake I will handle under theſe ſeven heads, which I may fitly terme the ſeven conſtant Hand-maids or Attendants to unlawfull gaming, or if you will the curſed ſpawne of this baſe Har<g ref="char:EOLhyphen"/>lot, <hi>viz.</hi>
+            </p>
+            <p n="1">1. To begin with drunkenneſſe, the roaring boys of theſe our times, where can or will they find a fitter place for gaming then at a Tavern, in which place, whereas they game without wit, ſo they will drinke without meaſure: They will be ſure, although they empty their purſes, by gaming, yet they will fill their bellies by ſuperfluous bib<g ref="char:EOLhyphen"/>bing: although they go out of the Tavern lighter by ma<g ref="char:EOLhyphen"/>ny a faire pound, yet their heads are ſo heavy, that they are like to ſalute every poſt they meet withall.</p>
+            <p>O the horridneſſe of this new-faſhioned vice of game<g ref="char:EOLhyphen"/>ing! which doth produce ſo hideous a monſter as drun<g ref="char:EOLhyphen"/>kenneſſe.</p>
+            <p>But there be thoſe in the world, which plead for drun<g ref="char:EOLhyphen"/>kenneſſe, as <hi>Lot</hi> for <hi>Zoar, Behold, is it not a little one?</hi> Ah, let no man be ſo fooliſh, as to plead for this little great ſin of drunkenneſſe, little in our owne ſights, but great and abominable in the ſight of God. S. <hi>Paul</hi> exhorts us to the
+<pb n="3" facs="tcp:113728:4"/>contrary, <hi>Rom</hi> 13.13. ſaying, <hi>Let us walke honeſtly,</hi> (or as ſome Tranſlations have it, <hi>decently) as in the day, not in rio<g ref="char:EOLhyphen"/>ting, and drunkenneſſe;</hi> why? becauſe drunkenneſſe is a deed of darkneſſe: <hi>Thoſe which are drunke are drunke in the night,</hi> 1. Theſ. 5. Wherefore, except it be avoided, it will bring us unto an eternall night of griefe, horror, and la<g ref="char:EOLhyphen"/>mentation.</p>
+            <p>Do but conſider with thy ſelfe, O drunkard, how much many a poore ſoul wants the ſnuffs, as thou termeſt them, which are powred on the ground careleſly by thee.</p>
+            <p>What canſt thou tell, but when thou art in thy cups, God in judgement may ſtrike thee dead? O then in what a caſe art thou!</p>
+            <p>A drunken man is uncapable of any thing that is good; but fit for all miſchiefe. Mark what wiſe. <hi>Salomon</hi> ſaith, <hi>Pro.</hi> 20. <hi>Wine is a mocker, ſtrong drink is raging; and whoſo<g ref="char:EOLhyphen"/>ever as deceived thereby, is not wiſe.</hi> Againe he ſaith, <hi>Pro.</hi> 23. Be not amongſt wine bibbers: we muſt not come in a wine-bibbers company, <hi>Salomon</hi> commands. Why? Be<g ref="char:EOLhyphen"/>cauſe the drunkard ſhall come to poverty: poverty in this world, and in the world to come, except he ſpeedily repent.</p>
+            <p>O what poverty can be like unto this, to knock at the doore, ſaying, Lord, Lord, open unto us, <hi>Luke</hi> 13. and he ſhall make anſwer and ſay, <hi>I know not whence years, depart from me all ye workers of iniquity; there ſhall be weeping and gnaſhing of teeth,</hi> procured by this vice of drunkenneſſe, ſprung from the loynes of gaming. Nor doe I ſay, that drunkenneſſe comes alone by gaming, but that it is <hi>Regia via,</hi> a high way to it: Wherefore, that we may avoid the one, let us fly the other, as two venemous Serpents, ſeek<g ref="char:EOLhyphen"/>ing to ſting us unto death.</p>
+            <p n="2">2. Gaming produceth lying; for the world is now
+<pb n="4" facs="tcp:113728:5"/>growne to ſuch an height of impiety, that there is no man almoſt even in very mercenary affaires will feare (for his owne profit) to tell a lye; but with gameſters it is grown a faſhion, followed by every one of them. A lye, that is but a trifle in their account, ſhall they looſe their mony for want of a lye, that were a jeſt indeed? O but let them look to it, leaſt they jeſt away their ſouls by it: who is the Fa<g ref="char:EOLhyphen"/>ther of lyes but the Devill? we need to make no doubt, for Chriſt himſelfe ſaid it, <hi>John</hi> 8.</p>
+            <p>
+               <hi>A lying tongue God hates,</hi> ſaith <hi>Solomon, Prov.</hi> 6. and if he hate it, then woe be unto thee, whoſoever thou art, which affecteſt it; it had better thou never hadſt been borne. That God is a God of mercy it is moſt true, but that he is a God of judgement alſo is moſt certaine: God will create <hi>Adam,</hi> after his own likeneſſe, <hi>Gen.</hi> 1. and give him dominion o<g ref="char:EOLhyphen"/>ver the fiſh, over the fowles of the aire, over the cattle, o<g ref="char:EOLhyphen"/>ver all the earth, and over every creeping thing which creepeth on the earth, and placed him in Eden.</p>
+            <p>But if <hi>Adam</hi> breake the Commandement of God, if <hi>A<g ref="char:EOLhyphen"/>dam</hi> does that which God hates, then he muſt be thruſt out of Eden, to go forth and till the ground, <hi>Gen.</hi> 3.</p>
+            <p>God dealt fairely, kindly, and mercifully, with Iſrael his choſen people, untill that they did that which he hated, running a whoring after their own inventions, then did he deliver them over into the hands of their enemies who car<g ref="char:EOLhyphen"/>ried them away captive.</p>
+            <p>God loves man ſo long as man loves God, but when man once begins to doe that which hee hates, then God powres forth his violls of wrath. God hates lying, wher<g ref="char:EOLhyphen"/>fore that we may ſhun the effect, which is lying, let us a<g ref="char:EOLhyphen"/>void the cauſe gaming, for <hi>qualis cauſa, talis effectus,</hi> the Logician ſaith, if the cauſe be good, it followes that ef<g ref="char:EOLhyphen"/>fect,
+<pb n="5" facs="tcp:113728:5"/>the end muſt be good; but if the cauſe be bad, the effect muſt be ſo likewiſe.</p>
+            <p>A Lawyer, (an honeſt one I mean) if the cauſe be good, by pleading muſt needs overthrow his Adverſary, and ſo the effect prove good alſo, but if bad, although all his Equivocations &amp; Fallacies, the effect (as I ſaid before) muſt needs prove bad: Wherefore that wee may not be tainted for Lyers, let us not be Gamſters, <hi>For where the dead carkas is, there will the Eagles gather together;</hi> and ſo, where common Gaming is, there is alſo common Lying, which produceth Swearing.</p>
+            <p>Thirdly, by Gaming comes Swearing.</p>
+            <p>After a company have beene Gaming together, thoſe which loſe their mony when they can get no redreſſe for their loſſe, their only eaſe is, to curſe, ban, and ſweare at the Cards or Dice: Nay, and before they Have loſt their money, they are not Gameſters; if they have not a fit of Swearing, that ſuch a one playes not faire, or that the other hath wonne farre more then he confeſſeth, for that they cannot doe by Lying, if it be poſſible, they will by Swearing. I needed not to have made any diſtin<g ref="char:EOLhyphen"/>ction at all betwixt Lying and Swearing; for ſaith an ancient Father. Swearing and Lying goe toge<g ref="char:EOLhyphen"/>ther; and proceeding further, he ſaith, Therefore they which are uſed to ſwearing, doe very naught; and no doubt, but that Gods vengeance hangeth over their heads: And certaine it is, that he which is a great Swearer, is alſo a great Lyer.</p>
+            <p>O conſider with thy ſelfe O Gameſter, and conſequently Swearer, how thou offendeſt thy
+<pb n="6" facs="tcp:113728:6"/>good and gracious God, who when thou wert in the gulfe of miſery, and ready for to diſcend into the deepe abyſſe of Hell. <hi>Joh.</hi> 3. <hi>He ſo loved the world, that he gave his onely begotten Sonne, that whoſo<g ref="char:EOLhyphen"/>ever beleeveth in him ſhould not periſh, but have ever<g ref="char:EOLhyphen"/>lasting life.</hi>
+            </p>
+            <p>In this ſaith Saint <hi>John,</hi> 1 <hi>Ioh.</hi> 4. was manifeſted the love of God towards us, becauſe that <hi>God ſent his onely begotten Sonne into the world, that wee might live through him.</hi>
+            </p>
+            <p>Nor did he onely ſend his Sonne to looke into the world, and no more, but he ſent him to dye for the world, and to be made a propitiation, for all our ſins: and yet for all this, wee with our roaring ſwearing-Gamſters pluck him from his throne of glory againe if it were poſſible, by thoſe thundring Oaths.</p>
+            <p>O was it not enough that he ſufferd once ſuch tor<g ref="char:EOLhyphen"/>ments, as the beſt of Orators wanted words to ex<g ref="char:EOLhyphen"/>preſſe the<g ref="char:cmbAbbrStroke">̄</g>; but that Adamantine-hearted men, more cruell then the <hi>Iewes,</hi> for they crucyfied him but once, muſt by their ſwearing crucifie him dayly. Me thinkes I ſee the hard and flintie rocks to guſh out in teares, and yet their eyes are dry! O hearke how ſavage beaſts of the field doe ſeeme in their kind to lament and morn to ſee their maſters more brutiſh than themſelves! What ſhall I ſay? ſhall I tell theſe men Saint <hi>Iames</hi> admonition? <hi>Iam.</hi> 5. <hi>Above all things my brethren ſweare not, neither by hea<g ref="char:EOLhyphen"/>ven, &amp;c. but let your yea, be yea, and your nay, nay, leſt yee fall into condemnation.</hi> I feare their hearts are ſo hardned they will not regard it, nor all the rout of this bewitching Vice of Gaming.</p>
+            <pb n="7" facs="tcp:113728:6"/>
+            <p>O God of thy great mercy open their eyes, and turn their reynes, that from the bottome of their hearts they may repent them of their wickedneſſe, &amp; be converted from this evill courſe of Gaming, &amp; conſequently from that horrid ſin of ſwearing, which unto thee I know is moſt odious and hate<g ref="char:EOLhyphen"/>full, let their <hi>yea, be yea,</hi> and their <hi>nay, nay,</hi> ſo ſhall thy Saints rejoyce, &amp; they hereafter to their com<g ref="char:EOLhyphen"/>forts, enjoy eternall happineſſe.</p>
+            <p>Fourthly, Gaming is the high-way to Adultery.</p>
+            <p>Luſt is the Ring-leader of miſchiefe, it is a bait of much evill, it is the Devils vaile which he often throws over mens faces to blind them in the way of igorance, it is that Diabolical ſin which ne'r leaves man till ſuch time it hath robd him of that glori<g ref="char:EOLhyphen"/>ous Diadem of happineſſe his precious ſoule and his only Darling, it is that damned and bewithced ſin that makes a ſeparation between God and man, it is that Grand Champion which cauſes that ſoul which was created glorious and delightſome in the ſight of God, become moſt deteſtable and odious in his preſence. By this Vice the ſoule is endange<g ref="char:EOLhyphen"/>red, and oftentimes with cruell ulcers and ſores the body is infected, and his means by Harlots ſudden<g ref="char:EOLhyphen"/>ly waſted. Woe be to that man which ſpends his time ſo vainly, and conſumes his eſtate ſo wicked<g ref="char:EOLhyphen"/>ly in this boſome-ſin, which is the only &amp; read ieſt way to helliſh miſery and everlaſting Beggery, it is the cauſe their friends forſake them, &amp; thoſe which are the Children of God to abhor and deteſt them. Nay, it makes their neighbours to ſhun them, and very youth to deride them &amp; laugh them to ſcora,
+<pb n="8" facs="tcp:113728:7"/>their kins folke doe deſpiſe them, and are very ſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and nice to drink with them; tis ſo odious a Vice, that no good man regards them, it doth cauſe God to forſake them, and if they doe not ſpeedly repent themſelves, and aske God mercy and forgiveneſſe for ſo damned a crime, the Devill will ſoone take them, and who then is there able to deliver them? O the horridneſſe of this ſin of Adulte<g ref="char:EOLhyphen"/>ry which is uſhered in by the damnable Vice of Gaming, which is a madneſſe (God he knowes) too much embraced by fooliſh and voluptuous worldlings, who doe, as it were, with ardent deſire, ſurrender or imploy themſelvs with every part and facultie of their bodies and mind to this ſo dam<g ref="char:EOLhyphen"/>nable an Exerciſe, Gaming I meane. Which exer<g ref="char:EOLhyphen"/>ciſe is as a bait or ſnare to entrap men in, to cozen and cheat them of the eſtate which their fore-fa<g ref="char:EOLhyphen"/>thers with ſweatie browes ſo turmoyled and la<g ref="char:EOLhyphen"/>boured for. It is as a Thiefe, robbing and ſtrip<g ref="char:EOLhyphen"/>ping them ſtark naked of thoſe happy and celeſti<g ref="char:EOLhyphen"/>all cogitation, which perhaps otherwiſe they would be indued withall, which would redound to the welfare both of bodies and ſoules.</p>
+            <p>This Vice of Gaming, as I ſaid before, oftentimes uſhers in the ugly monſtrous ſin of Adultery, and puts us in mind of ſtrange women, whoſe rowling and glancing eyes allure us to their owne wicked intents, of whom wiſe <hi>Solomon</hi> giveth us warning: <hi>Prov.</hi> 6. <hi>Luſt not after her beautie in thine heart, nei<g ref="char:EOLhyphen"/>ther let her take thee with her eye-lids, for by meanes of a whoriſh woman man is brought to a piece of bread, and the Adulteres will hunt for the precious life.</hi> Marke to
+<pb n="9" facs="tcp:113728:7"/>the 2 <hi>chap.</hi> 32 <hi>verſ.</hi> and there <hi>Solomon</hi> ſaith, <hi>VVho ſo committeth Adultery with a woman lacketh und underſtanding, he that doth it, deſtroyeth his owne ſoule.</hi>
+            </p>
+            <p>Furthermore, Gaming, <hi>Eſca eſt malorum,</hi> a net of evils, in which oftentimes men are caught in. Gaming makes men careleſſe of their affaires, and heedleſſe of their eſtates for the preſent, and for ever after ruinous. It makes a man, as I told you before in the laſt particular, prone to ſweare and forſweare, and in the eagerneſſe of their play rea<g ref="char:EOLhyphen"/>dy to bulke out ſuch oathes, which are ready to teare the Divine Eſſence out of his ſacred Throne of Glory: But eſpecially, this vice doth Dame Luſt attend upon. This mighty darling ſinne doth ſtill wait on that mans elbow who is given to the vice of Gaming.</p>
+            <p>A Gameſter, <hi>diſcruciatur animo,</hi> is troubled and perplext in his minde; his eyes are ſtill effemi<g ref="char:EOLhyphen"/>nate, his thoughts are incruſed and inflamed after laſcivious and wanton women, which are cater<g ref="char:EOLhyphen"/>pillers to devoure his eſtate, and Darling friend his ſoule. Gaming doth often rob man of his ſilken robe of honour, and cauſes him to be clad<g ref="char:EOLhyphen"/>ded with ragges of much infamy and diſgrace.</p>
+            <p>Though thou mayſt by this exerciſe of Gaming flouriſh in <hi>primo juventutis,</hi> in the prime of thy age, and accumulate an eſtate, the vice being ſo tempting, thou mayſt before old dayes be decei<g ref="char:EOLhyphen"/>ved of thy former eſtate, and bring upon thy ſelfe the ſtate of beggery, as I ſhall ſhew anon.</p>
+            <p>O therefore, let all men as regard proſperity in
+<pb n="10" facs="tcp:113728:8"/>this world, and eternall joyes in the world to come, forſake this damnable exerciſe of Gaming, which hatcheth ſuch a ſerpentine Egge as Adulte<g ref="char:EOLhyphen"/>ry, which that all may, God of his great mercy grant; and thus I conclude Gaming as it is the high-way to Adultery.</p>
+            <p>Fifthly, Gaming is the high-way to beggery.</p>
+            <p>Gaming is the high-way to idleneſſe, and con<g ref="char:EOLhyphen"/>ſequently to beggery: For I my ſelfe have known many Tradeſmen, and others, which after they have taken a haunt of Gaming, neither can nor will finde the way againe to follow their lawfull occupations, but ſpend the remnant of their lives in ſloath; from a Dice-patron, hee becomes an idle perſon and a ſluggard, to whom <hi>Salomon</hi> thus ſpeaketh, <hi>Prov.</hi> 6. <hi>Go to the Ant thou ſluggard, conſi<g ref="char:EOLhyphen"/>der her ways, and be wiſe, which having no guid, overſeer, or ruler, provideth her meat in the ſummer, and gathe<g ref="char:EOLhyphen"/>reth her food in the harveſt: how long wilt thou ſleep, O ſluggard? when wilt thou ariſe out of thy ſleep? yet a little ſleep, &amp;c.</hi> By this we may ſee, that the wayes of Idleneſſe is want and poverty. Again, <hi>Salomon</hi> ſaith, <hi>Prov.</hi> 13. <hi>The ſoule of the ſluggard (or ſlothfull) deſireth, and hath nothing.</hi> And again, he ſaith, <hi>ch.</hi> 22. <hi>v.</hi> 5. <hi>The ſlothfull man ſaith, there is a Lyon without, I ſhall be ſlain in the ſtreets.</hi> No excuſe ſhall be wan<g ref="char:EOLhyphen"/>ting to maintaine his idleneſſe, by which buildings decay, and houſes drop down, <hi>Eccleſ.</hi> 10. Idleneſſe ſaith one, <hi>Radix omnium malorum est,</hi> is the root of all evill. <hi>S. Paul</hi> ſaith, <hi>Qui non laborat, non comedat,</hi> he that laboreth not let him not eate. After <hi>Adam</hi> had offended, it was Gods pleaſure that he ſhould
+<pb n="11" facs="tcp:113728:8"/>not be idle; wherefore he ſaith, <hi>Gen.</hi> 3. <hi>In ſudore vultus tui veſceris pa<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ue,</hi> in the ſweat of thy face thou ſhalt eate thy bread. And <hi>S. Paul</hi> ſaith again, <hi>Magis autem laboret ut det indigentibus,</hi> let him la<g ref="char:EOLhyphen"/>bour the more, that he may have wherewithall to help the poore.</p>
+            <p>But alas! our Idle Gamſters are ſo far from that, as they will not work to ſupply their own wants; what? ſhall they which but lately had the world in a ſtring, to have what they would, and do what they would, and command whom they would, now by any one be commanded? they frown if although a proud heart and a beggers purſe agree not toge<g ref="char:EOLhyphen"/>gether: Content they are to live, although a dogs life, having hunger and eaſe. Work! no, they will rather ſteale, which brings mee to the ſixt danger that enſues by Gaming.</p>
+            <p>Sixtly, Gaming is the high way which leadeth to theevery: After beggery hath viſited a Game<g ref="char:EOLhyphen"/>ſter, he is deſperate and prone to all evill, but eſpe<g ref="char:EOLhyphen"/>cially theevery, although God in the 8. Comman<g ref="char:EOLhyphen"/>dement expreſly commands to the contrary, ſay<g ref="char:EOLhyphen"/>ing, <hi>Thou ſhalt not ſteale.</hi> And where the Comman<g ref="char:EOLhyphen"/>dements of God are broken, there can be no love to God, <hi>For if ye love me,</hi> ſaith Chriſt, <hi>keep my Com<g ref="char:EOLhyphen"/>mandements;</hi> as if he had ſaid, It is not enough, to ſay that you love me, making only a ſhow of the ſame, but let me ſee it done effectually by keeping my Commandements; to ſteale and keep Gods Commandements too, we cannot. Of ſtealing Gaming is oftentimes a great cauſe. Doth Ga<g ref="char:EOLhyphen"/>ming
+<pb n="12" facs="tcp:113728:9"/>cauſe Theevery? O then flie it like a ſerpen<g ref="char:EOLhyphen"/>tine Egge of the Divels owne hatching.</p>
+            <p>The Law condemns a Theefe in this world, and except God be mercifull, he is condemned alſo in the world to come. O who now then will not flie Gaming!</p>
+            <p>Seventhly, and laſtly, Gaming leads to eternall damnation (I meane ſuperfluous Gaming) except the great mercy of God by ſpeedy repentance pre<g ref="char:EOLhyphen"/>vent it not.</p>
+            <p>Hitherto have I deſcribed the Devils new created champions, attending upon Gaming, and now (by the help of God) briefly, the dangers which hang over the head, except he ſhake off this bewitching vice. It muſt needs be granted by the precedent propoſitions, that it is a cauſe of breaking of Gods Statutes, and therefore it is flat diſobedience, a<g ref="char:EOLhyphen"/>gainſt which are many and great curſes pronoun<g ref="char:EOLhyphen"/>ced, <hi>Deut.</hi> 28. <hi>He which diſobeyeth the commandements of God, curſed ſhall he be in the City, and curſed ſhall he be in the field, the Lord ſhall make the peſtilence to cleave unto him, &amp;c.</hi>
+            </p>
+            <p>But yet the dangers of this world are not com<g ref="char:EOLhyphen"/>parable to thoſe of the world to come, which ſhall happen to the diſobedient: Here, they ſhall bee only puniſhed corporally, there ſpiritually, except they ſpeedily repent, then ſhall God blot out all their wickedneſſe out of his remembrance, which that all may doe, not onely Gameſters, but all others; God of his great mercy grant.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113728:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
